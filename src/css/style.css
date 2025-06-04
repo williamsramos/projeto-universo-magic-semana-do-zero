@@ -1,0 +1,21 @@
+body {
+    overflow-x: hidden;
+}
+
+
+.footer-magic {
+    bottom: 0;
+    left: 0;
+    height: 10px;
+    width: 100%;
+    font-size: 20px; 
+    background-color: #200b38; 
+    color: #ffffff;
+    text-align: center;
+    padding: 30px 10px;
+    border-top: 1px solid #222;
+}
+
+.footer-magic img {
+    width: 50px;
+}  
